@@ -1,8 +1,7 @@
-<!DOCTYPE Html>
+
   <html lang="en">
 <head>
   <body font>
-    <font color=#"FFFFFF">
       <center><h1>
         NUEVA PAGINA WED
       </h1></center>
